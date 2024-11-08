@@ -1,8 +1,7 @@
 <h1 align="center">Hi , I'm Sachin K Singh</h1>
 
-- I’m currently working on Flutter
+- I’m currently working on Php
 - I’m currently learning Backend
-- Ask me anything about Flutter 
 - How to reach me: sachin.weblord@gmail.com
 - My website: -
 - Fun fact: Learning new things
